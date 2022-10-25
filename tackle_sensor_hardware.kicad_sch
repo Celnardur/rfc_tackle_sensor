@@ -3310,7 +3310,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 22be894f-d38a-4ac1-8b83-10dc58041bda)
   )
-  (text "+12V LED Output\nCurrent - Trip: 1.75 A\nCurrent - Hold: 350 mA\nTime to Trip: 100 ms"
+  (text "+12V LED Output\nCurrent - Trip: 1.50 A\nCurrent - Hold: 750 mA\nTime to Trip: 100 ms"
     (at 307.34 118.11 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4880bb1a-1489-45fc-bf12-627192e80e37)
