@@ -4,6 +4,12 @@
 
   (paper "USLegal")
 
+  (title_block
+    (title "Tackle Sensor")
+    (date "2022-12-01")
+    (rev "v0.1")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x02_Male" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 2.54 0)
@@ -2250,7 +2256,6 @@
     )
   )
 
-
   (junction (at 39.37 49.53) (diameter 0) (color 0 0 0 0)
     (uuid 06e9bc4c-1e62-4abd-8836-a8055097427c)
   )
@@ -4113,10 +4118,10 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 058bdf60-31bd-4a68-af3c-9a7df779d275))
-    (pin "2" (uuid e90e463a-9815-4958-a09d-8483d39307ab))
-    (pin "2" (uuid e90e463a-9815-4958-a09d-8483d39307ab))
-    (pin "3" (uuid 077a6e73-d659-4e91-9c66-0a6f30fd708f))
-    (pin "3" (uuid 077a6e73-d659-4e91-9c66-0a6f30fd708f))
+    (pin "2" (uuid e90e463a-9815-4958-a09d-8483d39307ac))
+    (pin "2" (uuid e90e463a-9815-4958-a09d-8483d39307ac))
+    (pin "3" (uuid 077a6e73-d659-4e91-9c66-0a6f30fd7090))
+    (pin "3" (uuid 077a6e73-d659-4e91-9c66-0a6f30fd7090))
   )
 
   (symbol (lib_id "Device:R_US") (at 198.12 53.34 0) (unit 1)
