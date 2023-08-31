@@ -3429,11 +3429,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4880bb1a-1489-45fc-bf12-627192e80e37)
   )
-  (text "On-board RGB LED:\n-RED when \"tackled\"\n-GREEN when \"okay\"\n-BLUE when \"ineligible receiver\""
-    (at 283.21 101.6 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 61884d6c-12e7-45c3-b520-d9bd1bec4fd2)
-  )
   (text "+3.3V Supply\n-Input: DC 12V 100mA\n-Output: 3.3V at 100mA"
     (at 232.41 29.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
