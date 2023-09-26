@@ -4,7 +4,7 @@
 
 Open a git bash terminal in the directory of your choosing and call the following command:
 
-`git clone https://github.com/ehunck/rfc_tackle_sensor_firmware`
+`git clone https://github.com/Celnardur/rfc_tackle_sensor.git`
 
 ## Developing
 
