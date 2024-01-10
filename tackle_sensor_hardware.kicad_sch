@@ -2356,7 +2356,6 @@
     )
   )
 
-
   (junction (at 39.37 49.53) (diameter 0) (color 0 0 0 0)
     (uuid 06e9bc4c-1e62-4abd-8836-a8055097427c)
   )
@@ -4264,7 +4263,7 @@
     (effects (font (size 2.5 2.5)) (justify left bottom))
     (uuid 0a6850b9-6c76-4a15-b2c7-adfe81b113a0)
   )
-  (text "Eligible/Ineligible\n Selection\n- Eligible Receiver (HIGH)\n- Ineligible Receiver (LOW)"
+  (text "Eligible/Ineligible\n Selection\n- Ineligible Receiver (HIGH)\n- Eligible Receiver (LOW)"
     (at 134.62 199.39 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0c3a990c-b09b-4cc0-9ccc-1554228dd6db)
@@ -4277,7 +4276,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 22be894f-d38a-4ac1-8b83-10dc58041bda)
   )
-  (text "Home/Away Selection\n- Home (HIGH)\n- Away (LOW)" (at 163.83 196.85 0)
+  (text "Home/Away Selection\n- Away (HIGH)\n- Home (LOW)" (at 163.83 196.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3fdd928c-ebf7-4929-8b7b-7111b9b15682)
   )
@@ -5191,10 +5190,10 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 058bdf60-31bd-4a68-af3c-9a7df779d275))
-    (pin "2" (uuid e90e463a-9815-4958-a09d-8483d39307b1))
-    (pin "2" (uuid e90e463a-9815-4958-a09d-8483d39307b1))
-    (pin "3" (uuid 077a6e73-d659-4e91-9c66-0a6f30fd7095))
-    (pin "3" (uuid 077a6e73-d659-4e91-9c66-0a6f30fd7095))
+    (pin "2" (uuid e90e463a-9815-4958-a09d-8483d39307b2))
+    (pin "2" (uuid e90e463a-9815-4958-a09d-8483d39307b2))
+    (pin "3" (uuid 077a6e73-d659-4e91-9c66-0a6f30fd7096))
+    (pin "3" (uuid 077a6e73-d659-4e91-9c66-0a6f30fd7096))
   )
 
   (symbol (lib_id "Device:R_US") (at 198.12 53.34 0) (unit 1)
