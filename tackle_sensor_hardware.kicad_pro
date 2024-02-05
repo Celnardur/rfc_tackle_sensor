@@ -395,7 +395,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../../Desktop/tackle_sensor_hardware.dsn",
-      "step": "tackle_sensor_hardware.step",
+      "step": "Releases/REV2_02_04_2024/tackle_sensor_hardware.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""

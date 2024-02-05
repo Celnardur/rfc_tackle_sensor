@@ -1,0 +1,27 @@
+Drill report for tackle_sensor_hardware.kicad_pcb
+Created on Sunday, February 04, 2024 at 10:08:48 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'tackle_sensor_hardware.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (60 holes)
+    T2  0.950mm  0.0374"  (10 holes)
+    T3  1.000mm  0.0394"  (6 holes)
+
+    Total plated holes count 76
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T4  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 4
